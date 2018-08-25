@@ -1,0 +1,5 @@
+How to build gradle
+
+./gradlew setupDecompWorkspace Idea
+
+./gradlew genIntellijRuns
